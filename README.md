@@ -26,10 +26,6 @@ Users should be able to:
 
 The challange have help improve my understanding of flex box model layout and the general css sysntax
 
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
 ```css
 .proud-of-this-css {
   display: flex;
